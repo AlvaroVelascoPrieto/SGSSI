@@ -1,7 +1,7 @@
 #!/bin/bash
  
 # The source path to backup. Can be local or remote.
-SOURCE=/home/alvaro/Desktop/Seguridad
+SOURCE=/home/alvaro/Desktop/Seguridad/
 # Where to store the incremental backups
 BACKUPDIR=/var/tmp/Backups
  
